@@ -1,0 +1,52 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+.gradle/
+.DS_Store
+.vsconfig
+
+# Unity generated solution / project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Plastic / Unity Version Control leftovers
+.plastic/
+ignore.conf
+
+# Local logs / misc
+logRunSetup.txt
+
+# Wwise cache and local-generated temp data
+AUI Project_WwiseProject/.cache/
+AUI Project_WwiseProject/Cache/
+AUI Project_WwiseProject/Logs/
+AUI Project_WwiseProject/.vs/
+AUI Project_WwiseProject/.idea/
+
+# Optional: ignore generated soundbanks if you regenerate them on each machine
+# AUI Project_WwiseProject/GeneratedSoundBanks/
+# Assets/StreamingAssets/Audio/GeneratedSoundBanks/

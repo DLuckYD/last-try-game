@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D6F2BE7B-7383-4C5B-A91C-165095EB97AE}" SchemaVersion="133">
+	<Containers>
+		<WorkUnit Name="Default Work Unit" ID="{D6F2BE7B-7383-4C5B-A91C-165095EB97AE}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Music" ID="{44AD39D2-6669-4EDB-981F-88C60C2A8361}" ShortID="901408089"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Containers>
+</WwiseDocument>

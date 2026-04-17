@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 5f949cc290f079d4dbb17adc48ec9dbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7676134324630485214
+    second: battle_effect_new8_0
+  - first:
+      213: -4534552865462922380
+    second: battle_effect_new8_1
+  - first:
+      213: -1112215843226933346
+    second: battle_effect_new8_2
+  - first:
+      213: -5245264361129559766
+    second: battle_effect_new8_3
+  - first:
+      213: -7392537657864390412
+    second: battle_effect_new8_4
+  - first:
+      213: 6657736328543117519
+    second: battle_effect_new8_5
+  - first:
+      213: 6813959700739040372
+    second: battle_effect_new8_6
+  - first:
+      213: -3603521806248644178
+    second: battle_effect_new8_7
+  - first:
+      213: 7866899157470672798
+    second: battle_effect_new8_8
+  - first:
+      213: 4918163839015749657
+    second: battle_effect_new8_9
+  - first:
+      213: 3590569830187932949
+    second: battle_effect_new8_10
+  - first:
+      213: -1212398541024809377
+    second: battle_effect_new8_11
+  - first:
+      213: 8307821779251854936
+    second: battle_effect_new8_12
+  - first:
+      213: -778379561441154582
+    second: battle_effect_new8_13
+  - first:
+      213: 8421055968182126658
+    second: battle_effect_new8_14
+  - first:
+      213: -2844329552063376729
+    second: battle_effect_new8_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battle_effect_new8_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 259
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227873c6084e87590800000000000000
+      internalID: -7676134324630485214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4735ad6a1380211c0800000000000000
+      internalID: -4534552865462922380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97a5e6559d9090f0800000000000000
+      internalID: -1112215843226933346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 259
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a293bd9aad31537b0800000000000000
+      internalID: -5245264361129559766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f87b42ea2e686990800000000000000
+      internalID: -7392537657864390412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 199
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0a607aae7056c50800000000000000
+      internalID: 6657736328543117519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 119
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a064fe3c009e50800000000000000
+      internalID: 6813959700739040372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 159
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1fc2e6208bdfdc0800000000000000
+      internalID: -3603521806248644178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 89
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97fbd46a17dc2d60800000000000000
+      internalID: 7866899157470672798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 119
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91884bb34f3d04440800000000000000
+      internalID: 4918163839015749657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 129
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d1695ac3444d130800000000000000
+      internalID: 3590569830187932949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 39
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ea30453f1bc2fe0800000000000000
+      internalID: -1212398541024809377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 49
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e7f8934ef4b4370800000000000000
+      internalID: 8307821779251854936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 79
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae920e3b9e3a235f0800000000000000
+      internalID: -778379561441154582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248cd2159c99dd470800000000000000
+      internalID: 8421055968182126658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_effect_new8_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 19
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2dd11a759e688d0800000000000000
+      internalID: -2844329552063376729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      battle_effect_new8_0: -7676134324630485214
+      battle_effect_new8_1: -4534552865462922380
+      battle_effect_new8_10: 3590569830187932949
+      battle_effect_new8_11: -1212398541024809377
+      battle_effect_new8_12: 8307821779251854936
+      battle_effect_new8_13: -778379561441154582
+      battle_effect_new8_14: 8421055968182126658
+      battle_effect_new8_15: -2844329552063376729
+      battle_effect_new8_2: -1112215843226933346
+      battle_effect_new8_3: -5245264361129559766
+      battle_effect_new8_4: -7392537657864390412
+      battle_effect_new8_5: 6657736328543117519
+      battle_effect_new8_6: 6813959700739040372
+      battle_effect_new8_7: -3603521806248644178
+      battle_effect_new8_8: 7866899157470672798
+      battle_effect_new8_9: 4918163839015749657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
