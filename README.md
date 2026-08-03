@@ -96,7 +96,7 @@ A twenty-sided dice roll adds uncertainty to combat. Even a strategically strong
 
 <div align="center">
 
-<img src="docs/readme/enemy-army-showacse.png" alt="Last Try enemy army showcase" width="49%">
+<img src="docs/readme/enemy-army-showcase.png" alt="Last Try enemy army showcase" width="49%">
 <img src="docs/readme/recruit.png" alt="Last Try team recruitment" width="49%">
 
 <img src="docs/readme/battle.png" alt="Last Try armies battle" width="49%">
@@ -109,34 +109,25 @@ A twenty-sided dice roll adds uncertainty to combat. Even a strategically strong
 
 - **Engine:** Unity
 - **Language:** C#
+- **Primary input:** Tobii Eye Tracker 5
+- **2D art:** Aseprite
+- **Art style:** 32×32 pixel-art sprites with a 16-color palette
 - **Audio:** Wwise
-- **3d Modeling:** Blender
-- **Textures creation:** Substance painter
-- **2d Art:** Procreate
-- **Data architecture:** ScriptableObjects for items, ingredients, recipes, adventurers and so on
-- **Dialogue:** JSON-based dialogue system
-- **System communication:** C# events
-- **Reusable content:** Unity Prefabs for all items, characters, stations, and UI elements
-- **Saving:** Custom save and load system
+- **Music production:** Ableton Live
+- **Version control:** Unity Version Control
 
 ---
 
 ## Notable Systems
 
-- Adventurer spawning and interaction
-- Quest and reward system
-- JSON-based dialogue
-- Dice-based haggling
-- Cooking and recipe system
-- Nine-slot hotbar
-- Item pickup, carrying, and placement
-- Upgrade stations
-- Furniture dismantling
-- Dark Entity interactions
-- Game recipe progression
-- Save and load system
-- Main menu, settings, and gameplay UI
-- Notifications, cutscenes, and interaction feedback
+- Eye-tracking unit selection with gaze-based highlighting
+- Keyboard confirmation to prevent accidental selections
+- Enemy army preview and timed recruitment
+- Counter-based unit matchups and army composition
+- Automatic battle simulation with D20 rolls
+- Score calculation and replay flow
+- Pixel-art UI and visual feedback
+- Wwise audio integration
 
 ---
 
@@ -144,19 +135,9 @@ A twenty-sided dice roll adds uncertainty to combat. Even a strategically strong
 
 | Team Member | Role | Main Responsibilities |
 |---|---|---|
-| **Taha Batur Şenli** | Game Designer & Project Manager | Game concept, gameplay design and narrative content |
-| **Roman Shostak** | Unity Developer | Dialogue and quest systems, haggling, item upgrading and dismantling, and the Dark Entity system |
-| **Iryna Huryn** | Unity Developer | Cooking system фтв progression, hotbar and item interactions, menu implementation, and save/load system |
-| **Nazree Nadhir** | 3D Artist | Furniture, rewards, ingredients and finished dishes |
-| **Lisa Grebe** | 2D & 3D Artist | House model, UI, icons, and other 2D assets |
-| **Jonathan Glück** | Sound Designer & Audio Engineer | Music, sound effects, audio implementation, and mixing |
-
----
-
-## Links
-
-- **Playable build:** Coming later
-- **Gameplay video:** [Link](https://youtu.be/Md8u-3zo31Y?si=y4kyKYZ12CvHMw2M)
+| **Iryna Huryn** | Unity Developer | All gameplay systems and integrated Tobii Eye Tracker support |
+| **Roman Shostak** | 2D Artist | 2D assets, UI visuals, and the overall pixel-art style |
+| **Jonathan Glück** | Sound Designer & Audio Engineer | Music and sound effects, implemented audio, and handled mixing |
 
 ---
 
@@ -168,20 +149,6 @@ Special thanks to everyone who contributed to the prototype, testing, presentati
 
 ---
 
-## Third-Party Assets
-
-Dragon Soup uses some of third-party assets. These materials remain the property of their respective authors and are used according to their original licenses.
-
-| Asset | Author / Source | License | Usage |
-|---|---|---|---|
-| **[Berry Rotunda](https://www.dafont.com/berry-rotunda.font)** | Typo-Graf / DaFont | Public Domain | Used for menus, dialogue panels, notifications, and other UI text |
-| **[Tudor Wall 03](https://freestylized.com/material/tudor-wall-03/)** | FreeStylized | FreeStylized Custom CC0 / Royalty-Free License | Used for the tavern wall material |
-| **[Wood Planks 05](https://freestylized.com/material/wood_planks_05/)** | FreeStylized | FreeStylized Custom CC0 / Royalty-Free License | Used for the tavern floor material |
-
-Unless otherwise noted, the original code, artwork, game design materials, and hardware-related content were created by the Dragon Soup development team.
-
----
-
 ## License
 
 Copyright © 2026 Dragon Soup Team. All rights reserved.
@@ -189,59 +156,3 @@ Copyright © 2026 Dragon Soup Team. All rights reserved.
 This project is publicly available for portfolio viewing and educational evaluation only. The source code, original assets, hardware materials, and other project contents may not be copied, modified, redistributed, or used in other projects without prior written permission from the respective copyright holders.
 
 Third-party assets are excluded from this license and remain subject to their respective licenses and terms of use.
-
----
-# 👁️ Last Try
-
-> An eye-tracking arcade strategy game where you build and command your army using only your gaze.
-
-## Overview
-
-Last Try is a prototype game built around Tobii eye-tracking technology, developed as part of the Advanced User Interfaces course at Hochschule Bonn-Rhein-Sieg. You play as a king who must recruit soldiers by looking at them, then watch your army fight automatically — with outcomes decided by matchup logic and a D20 dice roll.
-
-The core design challenge: can gaze alone serve as a meaningful game input?
-
-## Gameplay Loop
-
-1. **Enemy reveal** — the enemy army is briefly shown; memorize it
-2. **Recruitment phase** — look at soldiers to select them; confirm with keyboard
-3. **Battle phase** — armies fight automatically based on unit matchups
-4. **Results** — score calculated; play again
-
-## Features
-
-- Eye-tracking unit selection via Tobii Eye Tracking 5.0
-- Keyboard confirmation to reduce false activations
-- Timed recruitment phase
-- Automatic battle simulation with matchup advantages/disadvantages
-- D20 dice roll mechanic for combat variance and replayability
-- Main menu and results screen
-- Pixel art visual style (32×32 sprites, 16-color palette)
-
-## Tech Stack
-
-| Tool | Purpose |
-|------|---------|
-| Unity | Game engine and logic |
-| Tobii Eye Tracking 5.0 | Primary input device |
-| C# | Game logic |
-| Aseprite | Pixel art asset creation |
-| Wwise | Audio integration |
-| Ableton Live | Music production |
-
-**Platform:** Windows 10+
-
-## My Role
-
-*Artist — Visual Design & Asset Integration*
-
-- Designed and implemented the complete visual style of the game
-- Created all 2D pixel-art assets (32×32 sprites, 16-color palette) in Aseprite
-- Built and integrated UI visuals and in-game object art
-- Contributed to the visual presentation of game mechanics and flow
-
-## Project Status
-
-University prototype project (Hochschule Bonn-Rhein-Sieg, Advanced User Interfaces course). Full gameplay loop implemented: Main Menu → Enemy Preview → Recruitment → Battle → Results.
-
-> ⚠️ Source code is managed via Unity Version Control (Plastic SCM) and is not hosted on GitHub.
