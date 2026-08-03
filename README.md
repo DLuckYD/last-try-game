@@ -96,16 +96,11 @@ A twenty-sided dice roll adds uncertainty to combat. Even a strategically strong
 
 <div align="center">
 
-<img src="docs/readme/main-menu.png" alt="Dragon Soup main menu" width="49%">
-<img src="docs/readme/tavern.png" alt="Dragon Soup tavern" width="49%">
+<img src="docs/readme/enemy-army-showacse.png" alt="Last Try enemy army showcase" width="49%">
+<img src="docs/readme/recruit.png" alt="Last Try team recruitment" width="49%">
 
-<img src="docs/readme/adventurers.png" alt="Dragon Soup adventurers" width="49%">
-<img src="docs/readme/item-pickup.png" alt="Dragon Soup item pickup" width="49%">
-
-<img src="docs/readme/item-upgrade.png" alt="Dragon Soup item upgrade" width="49%">
-<img src="docs/readme/forge-room.png" alt="Dragon Soup forge room" width="49%">
-
-<img src="docs/readme/cookbook.png" alt="Dragon Soup cookbook" width="99%">
+<img src="docs/readme/battle.png" alt="Last Try armies battle" width="49%">
+<img src="docs/readme/result-panel.png" alt="Last Try result panel" width="49%">
 
 </div>
 
