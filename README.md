@@ -32,7 +32,7 @@ The game was developed as part of the Advanced User Interfaces course at Hochsch
 
 <div align="center">
 
-<a href="https://youtu.be/Md8u-3zo31Y?si=y4kyKYZ12CvHMw2M">
+<a href="https://www.youtube.com/watch?v=XY3OSFbURMw">
   <strong>▶ Watch the Gameplay Trailer</strong>
 </a>
 
